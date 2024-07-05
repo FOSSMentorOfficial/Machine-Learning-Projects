@@ -1,4 +1,4 @@
-<div Align="center"><h1> <a href="https://FOSSMentorOfficial.github.io/Machine-Learning-Projects/">Machine Learning Projects </a></h1><img alt="GIF" src="01%20Start/resources/a.png"/></div>
+<div Align="center"><h1> <a href="https://FOSSMentorOfficial.github.io/Machine-Learning-Projects/">Machine Learning Projects </a></h1></div>
 
 <p align="center">
     <a href="https://github.com/FOSSMentorOfficial/Machine-Learning-Projects"><strong>Explore the docs »</strong></a>
@@ -16,14 +16,14 @@
 ------------------
 
 ### List of Projects :-
-* [Diabetes Prediction](#2-Diabetes-prediction)
-* [Getting Admission in College Prediction](#3-Getting-Admission-in-College-Prediction)
-* [Heart Disease Prediction](#4-Heart-Disease-Prediction)
-* [Loan Repayment Prediction](#6-Loan-Repayment-Prediction)
-* [Predict Employee Turnover](#7-Predict-Employee-Turnover)
+* [Diabetes Prediction](#1-Diabetes-prediction)
+* [Getting Admission in College Prediction](#2-Getting-Admission-in-College-Prediction)
+* [Heart Disease Prediction](#3-Heart-Disease-Prediction)
+* [Loan Repayment Prediction](#4-Loan-Repayment-Prediction)
+* [Predict Employee Turnover](#5-Predict-Employee-Turnover)
 
 ### 1. [Diabetes-prediction](https://github.com/FOSSMentorOfficial/Machine-Learning-Projects/tree/main/Diabetes%20Prediction)
-| [Notebook File](https://github.com/FOSSMentorOfficial/Machine-Learning-Projects/blob/main/Diabetes%20Prediction/Diabetes%20Classification.ipynb) | [Complete Deployed Project](https://github.com/FOSSMentorOfficial/Diabetes-prediction) | [Dataset](https://github.com/FOSSMentorOfficial/Machine-Learning-Projects/tree/main/Diabetes%20Prediction/dataset) | [Working Link](https://sarvdiabetes-predictions.herokuapp.com/)
+| [Notebook File](https://github.com/FOSSMentorOfficial/Machine-Learning-Projects/blob/main/Diabetes%20Prediction/Diabetes%20Classification.ipynb) | [Complete Deployed Project](https://github.com/FOSSMentorOfficial/Diabetes-prediction) | [Dataset](https://github.com/FOSSMentorOfficial/Machine-Learning-Projects/tree/main/Diabetes%20Prediction/dataset)
 |----|----|----|----|
 - The objective of the project is to diagnostically predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset.
 - The data set that has used in this project has taken from the Kaggle. "This dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases.  
@@ -97,6 +97,6 @@ Distributed under the MIT License. See [LICENSE](https://github.com/FOSSMentorOf
  
  <table>
   <tr>
-    <td align="center"><a href="https://github.com/FOSSMentorOfficial"><img src="https://avatars2.githubusercontent.com/u/55739302?s=400&u=1e7714cb1cbe3437a527a877486c94611f0e7ab0&v=4" width="100px;" alt=""/><br /><sub><b>Sarvesh Sharma</b></sub></a><br /><a href="https://github.com/FOSSMentorOfficial" title="github"><img src="https://img.shields.io/github/followers/FOSSMentorOfficial?style=social"></a> <a href="https://twitter.com/sarveshroli/" title="twitter"><img src="https://img.shields.io/twitter/follow/sarveshroli?label=twitter&style=social"></a></td>
+    <td align="center"><a href="https://github.com/FOSSMentorOfficial"><img src="https://avatars.githubusercontent.com/u/2519942?s=400&u=1e7714cb1cbe3437a527a877486c94611f0e7ab0&v=4" width="100px;" alt=""/><br /><sub><b>Wasif Younas</b></sub></a><br /><a href="https://github.com/FOSSMentorOfficial" title="github"><img src="https://img.shields.io/github/followers/FOSSMentorOfficial?style=social"></a></td>
    <tr>
   <table>
