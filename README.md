@@ -114,7 +114,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/FOSSMentorOf
  I will be happy to assist 
 # 
 ## want something improved or added?
-  > Fork the repo @ [GitHub](https://github.com/fossmentor-official/Python_Web_Scrappers)
+  > Fork the repo @ [GitHub](https://github.com/fossmentor-official/Machine-Learning-Projects)
 # 
 
 <table>
