@@ -20,7 +20,7 @@ You can send us pull requests to Add new project or help in improving an existin
 
 A team members will be assigned to review your pull requests. Once they reviewed your pull request and if it looks good to them, a member will approve and merge them to the repository.
 
-If you want to contribute, [Github issue ](https://github.com/FOSSMentorOfficial/Machine-Learning-Projects/issues/) are a good starting point.If you started working on a issue, leave a comment so other people know that you're working on it, you can also coordinate with others on the issue comment threads.
+If you want to contribute, [Github issue ](https://github.com/fossmentor-official/Machine-Learning-Projects/issues/) are a good starting point.If you started working on a issue, leave a comment so other people know that you're working on it, you can also coordinate with others on the issue comment threads.
 in more specific.
 
 * If you see an issue already created, that you think you can resolve, comment on it and ask the maintainers to assign it to you. We will be more than glad to do so :)
