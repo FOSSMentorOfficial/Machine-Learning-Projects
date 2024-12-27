@@ -93,10 +93,38 @@ Contributions are what make the open source community such an amazing place to b
 
 Distributed under the MIT License. See [LICENSE](https://github.com/FOSSMentorOfficial/Machine-Learning-Projects/blob/main/LICENSE.md) for more information.
 
-### Work By
- 
- <table>
+
+<!-- Actual text -->
+## Find me on
+[![Facebook][1.2]][1] [![LinkedIn][2.2]][2] [![Instagram][3.2]][3]
+
+<!-- Icons -->
+
+[1.2]: https://i.imgur.com/dqSkGWu.png (Facebook)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn)
+[3.2]: https://i.imgur.com/TFy6wii.png (Instagram)
+
+<!-- Links to my social media accounts -->
+[1]: https://facebook.com/fossmentor
+[2]: https://www.linkedin.com/in/fossmentor/
+[3]: https://www.instagram.com/fossmentor.official/
+
+## Having troubles implementing?
+ > Reach out to me contact@fossmentor.com 
+ I will be happy to assist 
+# 
+## want something improved or added?
+  > Fork the repo @ [GitHub](https://github.com/fossmentor-official/Python_Web_Scrappers)
+# 
+
+<table>
   <tr>
-    <td align="center"><a href="https://github.com/FOSSMentorOfficial"><img src="https://avatars.githubusercontent.com/u/2519942?s=400&u=1e7714cb1cbe3437a527a877486c94611f0e7ab0&v=4" width="100px;" alt=""/><br /><sub><b>Wasif Younas</b></sub></a><br /><a href="https://github.com/FOSSMentorOfficial" title="github"><img src="https://img.shields.io/github/followers/FOSSMentorOfficial?style=social"></a></td>
+    <td align="center"><a href="https://github.com/fossmentor-official"><img src="https://avatars.githubusercontent.com/u/2519942?s=400&u=1e7714cb1cbe3437a527a877486c94611f0e7ab0&v=4" width="100px;" alt=""/><br />
+    <b>Wasif Younas</b></a><br />
+    <a href="https://github.com/fossmentor-official" title="github"><img src="https://img.shields.io/github/followers/fossmentor-official?style=social"></a>
+    </td>
    <tr>
   <table>
+
+## Regards,
+ > [Fossmentor](https://fossmentor.com)
